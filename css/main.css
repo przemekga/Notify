@@ -1,0 +1,98 @@
+body {
+    background-color: #9b9b9b;
+    max-width: 1600px;
+    margin: 0 auto;
+    font-size: 10px;
+}
+/*#2ecc71*/
+
+                      /*HEADER*/
+
+header {
+    background-image: url(/images/headerbg.jpg);
+    background-repeat:no-repeat;
+    background-position: -14px -75px;
+    border-top: 10px solid #2ecc71;
+    overflow: auto;
+    height: 600px;
+    width: 1600px;
+    
+}
+
+
+.hand {
+    float: right;
+    margin: 90px 270px 0 0;
+}
+
+.logo {
+    float: left;
+    position: absolute;
+    margin-left: 325px;
+    margin-top: 168px;
+}
+
+.platforms {
+    float: left;
+    margin-left: 330px;
+    margin-top: 374px;
+    position: absolute;
+}
+
+.container {
+    background-color: rgba(0, 0, 1, 0.4);
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 12px;
+    
+}
+
+.container .apple {
+    margin: 
+}
+
+header p {
+/*
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    float: left;
+*/
+    font-size: 2.3em;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  margin-left: 330px;
+  margin-top: 284px;
+  width: 453px;
+    
+}
+
+
+                    /*FEATURES*/
+.features {
+    background-color: #ffffff;
+    height: 335px;
+}
+
+                    /*NEWSLETTER*/
+
+.newsletter {
+    background-color: #e3e3e3;
+    height: 428px;
+}
+
+                    /*CONTACT*/
+.contact {
+    background-color: #ffffff;
+    height: 468px;
+}
+
+                    /*FOOTER*/
+footer {
+    background-color: #e3e3e3;
+    height: 130px;
+}
