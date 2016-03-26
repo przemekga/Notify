@@ -224,10 +224,96 @@ button:active {
 iframe {
     border-radius: 10px;
 }
+
+
+
                     /*CONTACT*/
+
+
+
 .contact {
     background-color: #ffffff;
     height: 468px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
+
+.ct {
+    margin-top: 60px;
+}
+
+.contact p {
+    width: 887px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.ct h3 {
+    margin-top: 25px;
+    font-size: 18px;
+    font-family: "Raleway";
+    color: rgb(46, 46, 46);
+    font-weight: bold;
+}
+
+p.quote {
+    margin-top: 60px;
+    font-style: italic;
+} 
+
+.images {
+    width: 1180px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.images div {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background-color: black;
+    margin-right: 2px;
+    
+}
+
+
+.ct h2 {
+    margin-bottom: 21px;
+}
+
+.bg {
+    
+    margin-top: 25px;
+    background-color: rgba(0, 0, 1, 0.2);
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 12px;
+    position: relative;
+}
+
+.bg:hover {
+    cursor: pointer;
+    background-color: #2ecc71;
+}
+
+.bg:active {
+    top: 1px;
+}
+
+.bg img {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    bottom: 0;
+    
 }
 
 
