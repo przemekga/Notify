@@ -1,1 +1,1 @@
-PSD to HTML exercise
+PSD to HTML
